@@ -7,10 +7,10 @@
                 android:radius="10dp"/>
             <size android:height="3dp" />
             <gradient
-                android:startColor="#FFEB3B"
-                android:centerColor="#FFC107"
-                android:centerY="0.5"
-                android:endColor="#FF9800"
+                android:startColor="#CDDC39"
+                android:centerColor="#8BC34A"
+                android:centerY="1"
+                android:endColor="#4CAF50"
                 android:angle="270"
                 />
         </shape>
@@ -24,10 +24,10 @@
                     android:radius="10dp"/>
                 <size android:height="3dp" />
                 <gradient
-                    android:startColor="#FF5722"
-                    android:centerColor="#F44336"
-                    android:centerY="0.5"
-                    android:endColor="#E91E63"
+                    android:startColor="#FFEB3B"
+                    android:centerColor="#FFC107"
+                    android:centerY="1"
+                    android:endColor="#FF9800"
                     android:angle="270"
                     />
             </shape>
